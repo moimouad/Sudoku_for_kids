@@ -16,3 +16,8 @@ Il est également recommandé de considérer :
 Pour la réalisation du travail, nous avons utilisé le langage C dans l’IDE Code::Blocks, et pour avoir une interface graphique, nous avons utilisé SDL qu’est, un ensemble de bibliothèques logicielles, c'est-à-dire un ensemble de fonctions permettant de réaliser des interfaces graphiques. 
 
 
+![alt text](https://github.com/moimouad/Sudoku_for_kids/blob/main/screens/1.PNG?raw=true)
+![alt text](https://github.com/moimouad/Sudoku_for_kids/blob/main/screens/2.PNG?raw=true)
+![alt text](https://github.com/moimouad/Sudoku_for_kids/blob/main/screens/3.PNG?raw=true)
+![alt text](https://github.com/moimouad/Sudoku_for_kids/blob/main/screens/4.PNG?raw=true)
+![alt text](https://github.com/moimouad/Sudoku_for_kids/blob/main/screens/5.PNG?raw=true)
